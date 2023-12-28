@@ -1,7 +1,6 @@
 ### Hi there. I'm cd23.
-I enjoy messing around the linux kernel
-Recently achieved single gpu passtrough on a NVIDIA GeForce GTX 1650.
-I've also made a guide to install Windows on xiaomi-raphael
+I enjoy messing around the linux kernel. Achieved single gpu passtrough on a NVIDIA GeForce GTX 1650.
+
  
 I currently own an Mi 9T Pro; an Xiaomi 12 Pro; and an HTC Desire 12+
 
